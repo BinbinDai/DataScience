@@ -1,3 +1,3 @@
 # DataScience
 
-This repo contains prep materials for data sciencen interviews.
+This repo contains prep materials for data science interviews.
